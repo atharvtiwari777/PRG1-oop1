@@ -1,5 +1,5 @@
 {
-    "chat.disableAIFeatures": true,
+    "chat.disableAIFeatures": false,
     //"github.copilot.enable": {"*": false},
     "python.defaultInterpreterPath": "/usr/bin/python3",
     "editor.tabSize": 4,
